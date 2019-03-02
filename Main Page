@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home Page</title>
+</head>
+<body>
+
+
+<h1>STEMY</h1>
+<p> <style="color:MediumSeaGreen;"> Science, Technology, Engineering, and Math for Youth! 
+  </p>
+  <p> What path would you like to explore? </p>
+  <p>
+<button type="button">Science
+  </button>
+  
+  <button type="button2">Coding
+  </button>
+  
+  <button type="button3">Logic
+  </button>
+  </p>
+  
+</body>
+</html>
